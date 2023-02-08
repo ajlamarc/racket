@@ -2,9 +2,9 @@
     title+'Racket'
     info+'A meme feed for Holium spaces.'
     color+0xce.bef0
-    version+[0 0 1]
+    version+[0 0 2]
     website+'https://holium.com'
     license+'MIT'
     base+'racket'
-    glob-http+['https://gateway.pinata.cloud/ipfs/QmRM3PRNHYH6VyFZKzv42tGZQaMyJTSt7cBNgpTD84QeFK' 0vpto2f.4nrmk.hmmtd.45gsm.r6rdu]
+    glob-http+['https://gateway.pinata.cloud/ipfs/QmcjREApbWFGcGSj8QA71KqrhT7vcX1YvdM7Fxk6ePpF35' 0v2.t7pop.dmds3.djl7l.jcukl.n2amr]
 ==

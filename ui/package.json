@@ -14,7 +14,7 @@
         "lint": "eslint ./src --fix"
     },
     "dependencies": {
-        "@holium/tome-db": "^1.0.0",
+        "@holium/tome-db": "^1.0.1",
         "@mantine/core": "^5.10.3",
         "@react-hook/resize-observer": "^1.2.6",
         "@urbit/api": "^2.0.0",
