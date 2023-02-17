@@ -13,8 +13,11 @@
         "lint": "eslint ./src --fix"
     },
     "dependencies": {
-        "@holium/tome-db": "^1.0.2",
-        "@mantine/core": "^5.10.3",
+        "@emotion/react": "^11.10.6",
+        "@holium/design-system": "^0.1.0",
+        "@holium/tome-db": "^1.0.4",
+        "@mantine/core": "^5.10.4",
+        "@mantine/hooks": "^5.10.4",
         "@react-hook/resize-observer": "^1.2.6",
         "@urbit/api": "^2.0.0",
         "@urbit/http-api": "^2.0.0",
