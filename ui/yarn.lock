@@ -411,10 +411,10 @@
     react-spotify-embed "^1.0.4"
     react-twitter-embed "^4.0.4"
 
-"@holium/tome-db@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@holium/tome-db/-/tome-db-1.2.0.tgz#1fbdba93683880863df3bd712e347d6990ee960e"
-  integrity sha512-8aju/J6h4dlecJ4wX1ToJR6CgUhMLmph6yRuLi2TKcNFHWJd1VRMyvSoNFnKrU+XCDTJq5bISlnTH7Cup5R6XA==
+"@holium/tome-db@1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@holium/tome-db/-/tome-db-1.2.2.tgz#f71bb8e9dae6cb6033dcca806f82a1bfc7c5067d"
+  integrity sha512-mkZv0TDLZJ+uDcUwfGTCmlJ5mTPlpuRzN4F5YCVBR4T9t11uWkyAIZFjst9fiOMSUuXsHBKffwqserltK7OGng==
   dependencies:
     "@urbit/http-api" "^2.3.0"
     uuid "^9.0.0"
